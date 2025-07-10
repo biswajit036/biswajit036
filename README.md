@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/biswajit036/biswajit036/main/banner.png" alt="banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/biswajit036/biswajit036/main/banner.png" alt="banner">
 
 <h1 align="center">Hi 👋, I'm Biswajit Pradhan</h1>
 <h3 align="center">💻 Java Backend Developer | 🎓 B.Tech CSE 2025 | 🌏 Bhubaneswar, India</h3>
