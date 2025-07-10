@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/biswajit036/biswajit036/main/banner.png" alt="banner" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajit036&theme=tokyo-night" alt="activity graph"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajit Pradhan</h1>
