@@ -1,11 +1,11 @@
-<!-- 3D Animated Banner Background -->
+<!-- 🌟 3D-Style Static Banner (replace with your own PNG if needed) -->
 <p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" alt="3D Background Banner" style="width:100%;" />
+  <img src="https://raw.githubusercontent.com/biswajit036/biswajit036/main/banner.png" alt="Biswajit Pradhan Banner" style="width:100%;" />
 </p>
 
-<!-- Typing Animation Header -->
+<!-- 🔤 Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=4AF2F3&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Pradhan;Java+Backend+Developer+%7C+B.Tech+2025;Skilled+in+JDBC%2C+Servlets%2C+OracleDB;Currently+Learning+Spring+Core+%26+ReactJS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=4AF2F3&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Pradhan;Java+Backend+Developer+%7C+B.Tech+2025;Currently+Learning+Spring+%26+ReactJS" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Aspiring Java Backend Developer | B.Tech 2025 | Open to Opportunities</h3>
@@ -59,8 +59,6 @@
 ---
 
 ## 🚀 Projects
-
-Here are some of my key works:
 
 - 🔹 [**FoodMart Web App**](https://github.com/biswajit036/FoodMart) – Online food ordering system using JSP/Servlets, JDBC, and OracleDB.
 - 🔹 [**Library Management System**](https://github.com/biswajit036/LibraryManagementSystem) – Java console app with CRUD, Collections & OOPs concepts.
