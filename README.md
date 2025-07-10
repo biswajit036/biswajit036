@@ -1,5 +1,4 @@
 <!-- Banner Image -->
-<img src="https://raw.githubusercontent.com/biswajit036/biswajit036/main/banner.png" alt="banner" style="width:100%;" />
 
 <h1 align="center">Hi 👋, I'm Biswajit Pradhan</h1>
 <h3 align="center">Aspiring Java Backend Developer | B.Tech 2025 | Open to Opportunities</h3>
