@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Biswajit Pradhan</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Pradhan" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Aspiring Java Backend Developer | B.Tech 2025 | Open to Opportunities</h3>
 
 <p align="center">
