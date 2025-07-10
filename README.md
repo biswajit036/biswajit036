@@ -1,3 +1,9 @@
+<!-- 3D Animated Banner Background -->
+<p align="center">
+  <img src="https://i.gifer.com/VAyR.gif" alt="3D Background Banner" style="width:100%;" />
+</p>
+
+<!-- Typing Animation Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=4AF2F3&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Pradhan;Java+Backend+Developer+%7C+B.Tech+2025;Skilled+in+JDBC%2C+Servlets%2C+OracleDB;Currently+Learning+Spring+Core+%26+ReactJS" alt="Typing SVG" />
 </h1>
