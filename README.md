@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajit036&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/biswajit036/biswajit036/main/banner.png" alt="Banner" style="width:100%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajit Pradhan</h1>
@@ -89,6 +89,8 @@ Here are some of my best works:
 
 ---
 
+### 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=biswajit036&theme=tokyo-night" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajit036&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </p>
