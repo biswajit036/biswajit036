@@ -71,14 +71,17 @@ Here are some of my best works:
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/biswajit-pradhan-520a89269">
+  <a href="https://www.linkedin.com/in/biswajit-pradhan-520a89269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/biswajit036">
+  <a href="https://github.com/biswajit036" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="mailto:biswajitpradhan77355@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/biswajit036/resume/raw/main/Biswajit_Pradhan_Resume.pdf" download>
+    <img src="https://img.shields.io/badge/Resume-Download-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
 
