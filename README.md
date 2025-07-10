@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Pradhan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1300&color=4AF2F3&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B%2C+I'm+Biswajit+Pradhan;Java+Backend+Developer+%7C+B.Tech+2025;Skilled+in+JDBC%2C+Servlets%2C+OracleDB;Currently+Learning+Spring+Core+%26+ReactJS" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Aspiring Java Backend Developer | B.Tech 2025 | Open to Opportunities</h3>
@@ -109,7 +109,3 @@ Here are some of my key works:
 ## 🔎 Keywords for Recruiters
 
 `Java Developer` • `Backend Developer` • `JSP` • `Servlets` • `Oracle DB` • `JDBC` • `HTML` • `CSS` • `GitHub Portfolio` • `Naresh IT` • `2025 Fresher` • `Bhubaneswar` • `Spring Core (Learning)` • `ReactJS (Learning)`
-
----
-
-Let me know if you want a **dark/light theme toggle**, **timeline of experience**, or **animated project showcase** added.
